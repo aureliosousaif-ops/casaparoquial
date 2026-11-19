@@ -1,0 +1,19 @@
+          /* Paleta de Cores */
+:root {
+          --cor-primaria: #1B3B6F;/* Azul Vitral - Navbar, títulos e elementos principais*/
+          --cor-secundaria: #F4EFEA;/* Pergaminho Antigo - Fundo suave do site*/
+          --cor-terciaria: #C59B27;/* Ouro Envelhecido - Destaques, bordas, botões ativos*/
+          --cor-escura: #1A191B;/* Cinza Pedra - Fundo escuro / Rodapé */
+          --cor-destaque: #6B1D2F;/* Vinho Sacro - Detalhes de destaque / Hover */
+          --cor-texto: #2D2C2A;         /* Cor do texto principal */
+      }
+
+          /* Sugestoes de fontes para serem utlizadas no site */
+/* 
+Cinzel: fonts.google.com/specimen/Cinzel
+Lora: fonts.google.com/specimen/Lora
+Merriweather: fonts.google.com/specimen/Merriweather
+Roboto: fonts.google.com/specimen/Roboto
+Lato: fonts.google.com/specimen/Lato 
+*/
+
